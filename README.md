@@ -2,13 +2,13 @@
 
 Welcome to the Emotion-Based Music Player project! This music player is designed to enhance your listening experience by dynamically selecting and playing music based on your emotional state.
 
-[My Awesome Project](https://github.com/sujitojha25/Emotion-based-Music-Recommendation-System)
+[Link to project](https://github.com/sujitojha25/Emotion-based-Music-Recommendation-System)
 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
+- [Introduction]
+- [Features]
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
